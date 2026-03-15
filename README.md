@@ -1,3 +1,3 @@
 # online-shopper-purchase-prediction
 Predictive analytics project analyzing e-commerce website behavior to predict which visitors will complete a purchase.
-![Product Engagement Chart](chart(1).png)
+![Product Engagement Chart](chart.png)
